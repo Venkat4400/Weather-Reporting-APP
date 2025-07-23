@@ -6,8 +6,7 @@
  Web link
 ![Screenshot (1)](https://github.com/user-attachments/assets/c9331b7d-ec9b-4590-973a-e66022ea2545)
 
-https://github.com/Venkat4400/Weather-Reporting-APP
-![Screenshot (2)](https://github.com/user-attachments/assets/3ba083bf-7605-4f50-afeb-f2d1750424da)
+https://venkat4400.github.io/Weather-Reporting-APP/
 
 Features of the project.
 It provide dynamic weather data like temp, min max![Screenshot (3)](https://github.com/user-attachments/assets/6414296d-9536-41f0-ad26-a1a0edc7db5b)
